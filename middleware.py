@@ -11,6 +11,8 @@ TODO:
  - accurate settings
  - threads to reduce processing time
  - permissive include directive support (virtual vs file, spaces everywhere)
+ - timeouts
+ - error handling
 """
 
 class SsiMiddleware(object):
